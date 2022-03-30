@@ -1,3 +1,0 @@
-/Users/liufurui/cpp/cpp_demo/modern_cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/liufurui/cpp/cpp_demo/modern_cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/liufurui/cpp/cpp_demo/modern_cpp/cmake-build-debug/CMakeFiles/modern_cpp.dir
